@@ -1,0 +1,11 @@
+# firefox-workspace (Extension)
+A Firefox Add-on developed in Reason-lang
+
+enhanced workspace .org for ff
+
+### Features
+* Search across workspaces
+* Filter inactive sessions
+* Terminate sessions
+
+<image src="https://raw.githubusercontent.com/devtools/firefox-workspace-manager/main/assets/demo.gif" width ="280"/>
