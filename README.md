@@ -9,3 +9,5 @@ enhanced workspace .org for ff
 * Terminate sessions
 
 <image src="https://raw.githubusercontent.com/devtools/firefox-workspace-manager/main/assets/demo.gif" width ="280"/>
+
+# PR Merge: 2025-12-02 15:53:56
